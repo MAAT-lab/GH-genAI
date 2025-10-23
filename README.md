@@ -7,4 +7,4 @@ Basic API call implementation of various generative AI services within Grasshopp
 - Open Grasshopper
 - Go to File > Special Folders > Components folder
 
-3. Open the sample files to test.
+3. Open the example files to test.
